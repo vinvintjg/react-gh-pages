@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.b177d967.css",
+    "main.js": "/react-gh-pages/static/js/main.0a9d1e72.js",
+    "static/js/453.7d244fd5.chunk.js": "/react-gh-pages/static/js/453.7d244fd5.chunk.js",
+    "static/media/boxicons.svg": "/react-gh-pages/static/media/boxicons.9e2b21b135bc7d4c803f.svg",
+    "static/media/Dompet3D.png": "/react-gh-pages/static/media/Dompet3D.b5c2d7839eeb96881039.png",
+    "static/media/boxicons.eot": "/react-gh-pages/static/media/boxicons.65a8ce52fc5427e8f94d.eot",
+    "static/media/boxicons.woff": "/react-gh-pages/static/media/boxicons.d12afc36557395143e4b.woff",
+    "static/media/boxicons.ttf": "/react-gh-pages/static/media/boxicons.db9ddb1898dbd76badca.ttf",
+    "static/media/boxicons.woff2": "/react-gh-pages/static/media/boxicons.df635aaf04cd75132f62.woff2",
+    "static/media/profile.jpg": "/react-gh-pages/static/media/profile.d681b73b8f565d4cc7fd.jpg",
+    "static/media/NoPage.svg": "/react-gh-pages/static/media/NoPage.4642e42de93918507a72ff9e69fd1687.svg",
+    "static/media/DompetkuLogo.svg": "/react-gh-pages/static/media/DompetkuLogo.4c07b691266d2c215dfabe5517129722.svg",
+    "static/media/Vector.svg": "/react-gh-pages/static/media/Vector.3aa342caba1f4c985e992f23e6de8f6c.svg",
+    "index.html": "/react-gh-pages/index.html",
+    "static/media/3dot.svg": "/react-gh-pages/static/media/3dot.2bb41abaaf2ac23ecb8bae16064b2aa4.svg",
+    "main.b177d967.css.map": "/react-gh-pages/static/css/main.b177d967.css.map",
+    "main.0a9d1e72.js.map": "/react-gh-pages/static/js/main.0a9d1e72.js.map",
+    "453.7d244fd5.chunk.js.map": "/react-gh-pages/static/js/453.7d244fd5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b177d967.css",
+    "static/js/main.0a9d1e72.js"
+  ]
+}
